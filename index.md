@@ -1,5 +1,5 @@
 ## Welcome to Ivy Academy
 
-- [Textbook](https://cs.ivy.academy)
-- [IDE](https://ide.ivy.academy)
-- [Lab](https://lab.ivy.academy)
+- [Textbook](http://cs.ivy.academy)
+- [IDE](http://ide.ivy.academy)
+- [Lab](http://lab.ivy.academy)

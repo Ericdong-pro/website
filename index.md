@@ -1,5 +1,4 @@
 ## Welcome to Ivy Academy
 
-- [Textbook & Assignments](http://cs.ivy.academy)
-- [IDE](http://ide.ivy.academy) (Your personal IDE)
-- [Lab](http://lab.ivy.academy) (Class shared IDE)
+- [Textbook & Assignments](http://runestone.academy/)
+- [IDE](https://ide.cs50.io/) (Your personal IDE)

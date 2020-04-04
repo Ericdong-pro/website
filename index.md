@@ -1,5 +1,6 @@
 ## Welcome to Ivy Academy
 
+## Teaching Resources
 - [Textbook & Assignments](http://runestone.academy/)
 - [IDE](https://ide.cs50.io/)
 - [Atheno's IDE](https://ide.cs50.io/XiChenn/ide) See the code from Atheno
